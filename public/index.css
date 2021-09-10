@@ -1,0 +1,11 @@
+.nav-wrapper {
+  padding: 0 2rem;
+  background-color: darkgreen;
+}
+
+.number {
+  background-color: darkgreen;
+  color:ghostwhite;
+  padding: 0 2rem;
+  float: right;
+}
